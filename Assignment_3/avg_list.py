@@ -1,4 +1,4 @@
-# Average of all numbers in the given list
+# Average of all numbers in the given list.
 num_list = []
 
 total = 0

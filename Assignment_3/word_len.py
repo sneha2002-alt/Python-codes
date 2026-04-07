@@ -1,4 +1,4 @@
-# Create a dictionary that maps each word to its length
+# Create a dictionary that maps each word to its length.
 word = ["apple", "banana", "kiwi", "cherry", "mango"]
 
 dict = {}

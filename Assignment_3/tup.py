@@ -1,4 +1,4 @@
-# Separate tuples of all even and odd numbers
+# Separate tuples of all even and odd numbers.
 tup = (1, 2, 3, 4, 5, 6, 7, 8, 9)
 
 tup_even = []

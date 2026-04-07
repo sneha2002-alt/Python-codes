@@ -1,4 +1,4 @@
-# Merge two lists into one ans sort the result
+# Merge two lists into one ans sort the result.
 # List 1 input
 s1 = int(input("Size of list 1: "))
 list1 = []
