@@ -9,4 +9,4 @@ for char in s:
 print("Unique characters & their counts")
 
 for char, count in char_count.items():
-  print(f"'{char}': {count}")    
+  print(f"'{char}': {count}")     
