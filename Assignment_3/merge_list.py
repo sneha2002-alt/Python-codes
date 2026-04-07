@@ -16,7 +16,7 @@ for i in range(s2):
     list2.append(num)
 
 # Merge and sort
-merge_list = list1 + list2
+merge_list = list(set(list1 + list2))  # set() removes duplicates
 merge_list.sort()
 
 print("Merged sorted list:", merge_list)
