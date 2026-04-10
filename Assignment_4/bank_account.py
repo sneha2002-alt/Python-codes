@@ -29,7 +29,20 @@ class BankAccount:
     print(f"Account {self.acc_number} ({self.owner_name}): Balance = Rs.{self.balance}")   
     
     
-b1 = BankAccount(12345, "Aman", 60000) 
-b1.deposit(1000) 
-b1.withdraw(500)   
-b1.check_balance()    
+acc = BankAccount(12345, "Aman", 60000) 
+
+choice = input("Enter choice (deposit/withdraw/check): ")
+
+if choice == "deposit":
+    amt = int(input("Enter amount: "))
+    acc.deposit(amt)
+
+elif choice == "withdraw":
+    amt = int(input("Enter amount: "))
+    acc.withdraw(amt)
+
+elif choice == "check":
+    acc.check_balance()
+
+else:
+    print("Invalid choice")   
