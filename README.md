@@ -49,7 +49,7 @@ To build strong Python fundamentals by practicing daily and solving assignments 
 1. Clone the repository
 
 ```
-https://github.com/sneha2002-alt/Python-codes.git
+https://github.com/sneha2002-alt/python-codes.git
 ```
 
 2. Run any file
