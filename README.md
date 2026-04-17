@@ -7,24 +7,23 @@ This repo contains my daily coding exercises, assignments, and small projects as
 
 ## 📌 About This Repository
 
-- 📅 Daily Python practice codes  
-- 📝 Assignments given during learning  
-- 💡 Concept-based small programs  
-- 🚀 Progress tracking in Python  
+- 📝 Assignments given during learning
+- 💡 Concept-based small programs
+- 🚀 Progress tracking in Python
 
 ---
 
 ## 🧠 Topics Covered
 
-- Variables & Data Types  
-- Input / Output  
-- Operators  
-- Conditional Statements (if-else)  
-- Loops (for, while)  
-- Functions  
-- Strings  
-- Lists, Tuples, Sets, Dictionaries  
-- Basic Problem Solving  
+- Variables & Data Types
+- Input / Output
+- Operators
+- Conditional Statements (if-else)
+- Loops (for, while)
+- Functions
+- Strings
+- Lists, Tuples, Sets, Dictionaries
+- Basic Problem Solving
 
 ---
 
@@ -36,23 +35,25 @@ To build strong Python fundamentals by practicing daily and solving assignments 
 
 ## 📈 Progress Tracker
 
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 1 | Basics | ✅ |
-| Day 2 | Conditionals & Loops | ✅ |
-| Day 3 | Functions | 🔄 |
-| Day 4 | Data Structures | ⏳ |
+| Day   | Topic                | Status |
+| ----- | -------------------- | ------ |
+| Day 1 | Basics               | ✅     |
+| Day 2 | Conditionals & Loops | ✅     |
+| Day 3 | Functions            | 🔄     |
+| Day 4 | Data Structures      | ⏳     |
 
 ---
 
 ## 💻 How to Run
 
-1. Clone the repository  
+1. Clone the repository
+
 ```
 https://github.com/sneha2002-alt/Python-codes.git
 ```
 
-2. Run any file  
+2. Run any file
+
 ```
 python filename.py
 ```
@@ -61,10 +62,10 @@ python filename.py
 
 ## ✨ Future Plans
 
-- Add mini projects  
-- Improve problem-solving skills  
-- Start Data Structures & Algorithms  
-- Explore libraries like NumPy & Pandas  
+- Add mini projects
+- Improve problem-solving skills
+- Start Data Structures & Algorithms
+- Explore libraries like NumPy & Pandas
 
 ---
 
